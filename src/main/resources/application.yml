@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: server-admin
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port: 9200 #启动端口
+#info.groupId: @project.groupId@
+#info.artifactId: @project.artifactId@
+#info.version: @project.version@
+
+
+
